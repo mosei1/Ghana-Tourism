@@ -127,6 +127,13 @@ footer {
         height: auto;
     }
 }
+@media screen and (min-width: 15.0em){
+	h3
+{
+text-align: left;
+font-size: 15px;
+
+}
 
 /* for pictures*/
 div.gallery {
